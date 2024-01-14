@@ -27,6 +27,8 @@ source your_environment_name/bin/activate
 
 streamlit run \your_python_file_name.py
 
+![alt tag]([http://url/to/img.png](https://github.com/fatma010/langchain_pandasai_streamlit/issues/1))
+
 **Note:** There may be other packeages to install, I will add them :)
 
 
