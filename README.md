@@ -1,7 +1,7 @@
 # langchain_pandasai_streamlit
-A streamlit interface for analyze data 
 
 You can analyze your data using natural language !
+
 PandasAI makes dataframes conversational
 Langchain is a framework interacts between data and language models
 Streamlit is a framework builds interactive apps with data
