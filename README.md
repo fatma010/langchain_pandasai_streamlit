@@ -27,7 +27,11 @@ source your_environment_name/bin/activate
 
 streamlit run \your_python_file_name.py
 
-![Screenshot]([http://url/to/img.png](https://github.com/fatma010/langchain_pandasai_streamlit/issues/1))
+<img width="1230" alt="1_ui" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/ac3b44aa-dda8-4025-b97d-af651f76fb7e">
+<img width="1006" alt="2_upload_file" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/7bd68ddf-41dc-47c4-925e-68a443a6e7bb">
+<img width="881" alt="3_statistics" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/c3eb05c3-1b6a-4461-9abe-c92e0f8dd051">
+<img width="944" alt="4_ask_question" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/87c55b47-503c-46bd-b8d6-aefb38ed72da">
+<img width="886" alt="5_response" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/3a7b8fe1-0ea4-47f7-9ebe-bcae6fff9ba7">
 
 **Note:** There may be other packeages to install, I will add them :)
 
