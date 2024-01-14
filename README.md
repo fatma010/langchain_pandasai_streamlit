@@ -1,6 +1,6 @@
-# langchain_pandasai_streamlit
+# Explore Your Data!
 
-**You can analyze your data using natural language !**
+**You can analyze your data using natural language **
 
 PandasAI makes dataframes conversational
 
