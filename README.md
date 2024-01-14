@@ -14,7 +14,7 @@ Create a virtual environment and install packages for an effective package manag
 
 pip install streamlit
 
-pip install pandaai
+pip install pandasai
 
 pip install openpyxl
 
