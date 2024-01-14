@@ -40,6 +40,6 @@ streamlit run \your_python_file_name.py
 **Get Response to Your Question**
 <img width="886" alt="5_response" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/3a7b8fe1-0ea4-47f7-9ebe-bcae6fff9ba7">
 
-**Note:** There may be other packeages to install, I will add them :)
+**Note:** There may be other packeages to install, I will add them soon :)
 
 
