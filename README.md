@@ -27,6 +27,6 @@ source your_environment_name/bin/activate
 
 streamlit run \your_python_file_name.py
 
-Note: There may be other packeages to install, I will add them :)
+**Note:** There may be other packeages to install, I will add them :)
 
 
