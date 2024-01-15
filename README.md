@@ -12,20 +12,21 @@ Streamlit is a framework builds interactive apps with data
 
 Create a virtual environment and install packages for an effective package management
 
+```
 pip install streamlit
-
 pip install pandasai
-
 pip install openpyxl
+```
 
 **Running**
 
 Run listed commands in the terminal respectively
 
 
+```
 source your_environment_name/bin/activate
-
 streamlit run \your_python_file_name.py
+```
 
 ***Load Your Data***
 <img width="1006" alt="2_upload_file" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/7bd68ddf-41dc-47c4-925e-68a443a6e7bb">
