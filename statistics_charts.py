@@ -107,7 +107,7 @@ if uploaded_files:
 
 
 #define preffered llm
-    llm = OpenAI(api_token='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',model="gpt-3.5-turbo")
+    llm = OpenAI(api_token='OPEN_AI_API_KEY',model="gpt-3.5-turbo")
 
     # convert to SmartDatalake
     pandas_ai = SmartDatalake([dataframe],
