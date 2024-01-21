@@ -16,6 +16,8 @@ Create a virtual environment and install packages for an effective package manag
 pip install streamlit
 pip install pandasai
 pip install openpyxl
+pip install sentence_transformer
+pip install rapidfuzz
 ```
 
 **Running**
@@ -50,7 +52,36 @@ streamlit run \your_python_file_name.py
 ***Get Generated Code***
 <img width="1440" alt="5" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/68dbb9b0-cfc3-4aad-8305-68e85f799dd1">
 
+***Get General Information for Columns according to Similarity Score***
 
-***Note:*** There may be other packeages to install, I will add them soon :)
+
+<img width="1437" alt="2" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/3282411d-6d3a-4d8f-96eb-f96438428720">
+
+<img width="1437" alt="3" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/96601bff-6711-4150-aae4-4b30a906469a">
+
+
+<img width="1427" alt="4" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/7513d6b9-cb29-4da7-9501-8b2367dcdc7b">
+
+<img width="1431" alt="5" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/f233c1fa-9687-47ac-8237-4dcc21fa5a23">
+
+
+<img width="1439" alt="6" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/9bda260d-4a82-4256-b64f-169ba7af9145">
+
+
+<img width="1434" alt="7" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/9f003fe3-fec7-4aed-9a2b-f408ac8f6904">
+
+
+<img width="1429" alt="8" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/ffafcc3d-d96d-43cc-ab3d-0989185f85a1">
+
+<img width="1440" alt="9" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/99f98c9f-55a5-44f8-929d-2bd8ac9f9fbd">
+
+
+
+
+
+
+
+
+
 
 
