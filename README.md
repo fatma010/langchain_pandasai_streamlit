@@ -52,6 +52,7 @@ streamlit run \your_python_file_name.py
 ***Get Generated Code***
 <img width="1440" alt="5" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/68dbb9b0-cfc3-4aad-8305-68e85f799dd1">
 
+
 ***Get General Information for Columns according to Similarity Score***
 
 
@@ -76,7 +77,14 @@ streamlit run \your_python_file_name.py
 <img width="1440" alt="9" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/99f98c9f-55a5-44f8-929d-2bd8ac9f9fbd">
 
 
+***Get An Explanation with Agent***
 
+<img width="1419" alt="6" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/386b721b-6519-49fa-ba1c-dfd3131fb2cd">
+
+
+***Get Clarification Questions with Agent***
+
+<img width="1413" alt="8" src="https://github.com/fatma010/langchain_pandasai_streamlit/assets/73019838/6c93ecbd-3472-4321-bcfa-81cc3c2d0b9c">
 
 
 
