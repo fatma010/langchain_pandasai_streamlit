@@ -112,7 +112,7 @@ if uploaded_files:
 # define preffered llm
     llm = OpenAI(api_token='OPEN_AI_API_KEY',model="gpt-3.5-turbo-1106")
 
-# convert to SmartDatalake
+# create agent
 
     agent = Agent([dataframe],
               config={"save_logs": True,
